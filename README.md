@@ -1,2 +1,17 @@
-# Healthy-cafe-management-system
-A C++ console-based cafe ordering system with OOP
+# ☕ Healthy Café Management System
+
+A C++ console-based café ordering system built as an open-ended lab project.
+
+## Features
+- Browse menu with prices and calories
+- Automatic 35% student discount
+- Calorie tracking per order
+- Save and view order history
+
+## How to Run
+1. Download the .cpp file
+2. Compile: g++ cafe_management.cpp -o cafe
+3. Run: ./cafe
+
+## Author
+Mysha Samiha Ava | AUST | EEE | Year 1
