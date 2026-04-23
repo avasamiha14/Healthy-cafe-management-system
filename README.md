@@ -10,7 +10,7 @@ A C++ console-based café ordering system built as an open-ended lab project.
 
 ## How to Run
 1. Download the .cpp file
-2. Compile: g++ cafe_management.cpp -o cafe
+2. Compile: c++ cafe_management.cpp -o cafe
 3. Run: ./cafe
 
 ## Author
